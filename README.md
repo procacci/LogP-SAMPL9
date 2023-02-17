@@ -15,7 +15,7 @@ img {
 </div>  
 <ul> 
   <li> <a href="all_metrics.html"> All Metrics </a>
-  <li> Show me the correlation plot of my <a href="prediction_names.html">  predictions </a>
+  <li> Show me the correlation plot of my <a href="prediction_names.html">  prediction </a>
   <li> Show me the deviation histograms of the 16 <a href="compounds.html"> compounds </a>  </li>
 </ul>  
 
